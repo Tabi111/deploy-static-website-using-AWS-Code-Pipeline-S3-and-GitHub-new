@@ -2,7 +2,7 @@
 
 
 ## Objective
-In this project, i deployed a static website via AWS codepipeline. Below is the architectural diagram that details how to accomplish this task.
+In this project, i deployed a static website via AWS codepipeline. Below is the architectural diagram that details how to accomplish this task. It is very simple and straight forward.
 
 
 
